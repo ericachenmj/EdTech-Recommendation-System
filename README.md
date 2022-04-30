@@ -1,1 +1,6 @@
 # EdTech-Recommendation-System
+
+
+Nowadays, data science, analytics, and machine learning are considered to be among the most popular career paths. Numerous specialists and students are searching for career opportunities in the data science field. They are confused about how to navigate their career paths, as well as what they should learn and update. Therefore, there is a necessity for universities to have courses or curriculum that focus not only on technical, but also on business and soft skills, so that students can successfully pursue their careers in data and analytics.
+
+The objective of the first part is to redesign the curriculum of an introductory course at the University of Toronto, MIE1624: Intro to Data Science and Analytics for the first year Master Engineering students who seek to find a data-based job. The second part is to redesign a curriculum for a new “Master of Data Science and Artificial Intelligence” program at University of Toronto. The program will focus on both technical and business skills. Lastly, an online course recommendation system was designed such that it automatically adapts to learning patterns of an individual student and adjusts a sequence of online courses for her/him.
